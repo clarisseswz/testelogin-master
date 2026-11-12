@@ -5,7 +5,7 @@ require_once __DIR__ . "/funcoes.php";
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Ana Clara Lopes">
     <title><?= isset($titulo) ? limpar($titulo) . " | " : "" ?>Zeta Transporte</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="assets/css/estilo.css">
